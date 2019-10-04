@@ -1,0 +1,22 @@
+{
+  "name": "lernapoc-sub1-v2",
+  "version": "1.0.0",
+  "description": "lerna sub package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivegotwings/lernapoc-sub1-v2.git"
+  },
+  "keywords": [
+    "lerna"
+  ],
+  "author": "shiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivegotwings/lernapoc-sub1-v2/issues"
+  },
+  "homepage": "https://github.com/ivegotwings/lernapoc-sub1-v2#readme"
+}
